@@ -1,2 +1,2 @@
 # knights-tour
-Knight's Tour problem visualizer with Swing in Java
+Knight's Tour problem visualizer using Warnsdorff's rule and backtracking for the algorithm. Java Swing is used for the GUI. The algorithm for finding the correct sequence of moves turned out to be too efficient to be viewed in real time, so I added in a 100 millisecond delay between iterations of the loop. This can be adjusted in Main.java for anyone who wants it to run faster or slower.
